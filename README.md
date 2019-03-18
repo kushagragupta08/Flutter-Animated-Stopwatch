@@ -1,6 +1,7 @@
-# flutter_stopwatch
+# Flutter Animated StopWatch with Background Controls in Notification Area.
 
-A new Flutter project.
+This is an Animated Circular Stopwatch that can be controlled(play or pause) in notification area also.
+It is  developed using Flutter Framework.
 
 ## Getting Started
 
